@@ -20,7 +20,7 @@ export default function Codes() {
           display={"flex"}
           borderWidth={"2px"}
           flexDir={"colume"}
-         shadow={"1px 2px 8px 3px black"}
+          shadow={"1px 2px 8px 3px black"}
           borderRadius={"20px"}
             
           justifyContent={"center"}

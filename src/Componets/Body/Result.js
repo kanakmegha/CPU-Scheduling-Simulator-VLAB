@@ -19,7 +19,7 @@ export default function Result() {
     alignContent={"center"}
     alignItems={"center"}>
       <Heading>Result</Heading>
-        <Heading size="md">Merge Sort algorithm , implemented using recursion is efficient and easy to understand.</Heading>
+        <Heading size="md">CPU Scheduling Algorithm algorithm , implemented using simulation is efficient and easy to understand.</Heading>
     </Box>
     </>
   )

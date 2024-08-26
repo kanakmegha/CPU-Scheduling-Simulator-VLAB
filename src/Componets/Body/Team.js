@@ -22,10 +22,7 @@ import {
           <Heading textAlign={'center'}>Team</Heading>
           <Heading fontSize={'30px'} paddingLeft={'10px'} textAlign={'left'}>Students</Heading>
           <  UnorderedList fontSize={'20px'} paddingLeft={'30px'}>
-            <ListItem>Ravi Tomer, Bsc Physical Science with computer Science Year 2023-2024</ListItem>
-            <ListItem>Ayush Chowdhury,Bsc Physical Science with computer Science Year 2023-2024</ListItem>
-            <ListItem>Pranjal Verma,Bsc Physical Science with computer Science Year 2023-2024</ListItem>
-           
+            <ListItem>S.Kanak Megha, Bsc (Hons) Computer Science Year 2023-2024</ListItem>
           </UnorderedList>
           <Heading fontSize={'30px'} paddingLeft={'10px'} textAlign={'left'}>Mentors</Heading>
           <  UnorderedList fontSize={'20px'} paddingLeft={'30px'}>

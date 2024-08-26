@@ -24,7 +24,7 @@ export default function References() {
 
         <Text fontSize={"xl"} p={2}>React book: Learning React: A Hands-On Guide <br />Chinnathambi, Kirupa. Learning React: a hands-on guide to building web applications using React and Redux. Addison-Wesley Professional, 2018. </Text>
         <Text fontSize={"xl"} p={2}>React book: React in Action <br />Larsen, John. React Hooks in Action: With Suspense and Concurrent Mode. Simon and Schuster, 2021. </Text>
-        <Text fontSize={"xl"} p={2}>Introduction to Algorithms<br />Cormen, Thomas H., et al. Introduction to algorithms. MIT press, 2022.</Text>
+        <Text fontSize={"xl"} p={2}>Dhamdhere, D. M. (2006). Operating Systems: A Concept-based Approach. 2nd edition. Tata McGraw-Hill. Education</Text>
         <Heading fontSize={'30px'} paddingLeft={'10px'} textAlign={'left'}>Tools</Heading>
         <  UnorderedList fontSize={'20px'} paddingLeft={'30px'}>
           <ListItem>React JS</ListItem>

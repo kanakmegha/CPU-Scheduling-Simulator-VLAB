@@ -16,7 +16,7 @@ export default function IndexArea() {
         alignContent={"center"}
         alignItems={"center"}
       >
-        <Heading className="heading">Merge Sort Recursion</Heading>
+        <Heading className="heading">CPU Scheduling Algorithm</Heading>
         <Box />
       </Box>
    

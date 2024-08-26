@@ -29,7 +29,7 @@ function App() {
           <Route path="/team" element={<Team/>} />
         </Routes>
       </BrowserRouter>
-   </div>  );
+</div>  );
 }
 
 export default App;
